@@ -1,4 +1,4 @@
-# Cardiovascular-Disease-Prediction
+
 # A Machine Learning Model for Earlier Prediction of Cardiovascular Disease
 Cardiovascular Disease (CVD) is a major global health issue and one of the leading causes of death worldwide. Predicting CVD risk accurately is crucial for healthcare professionals to make well-informed decisions about patient care. Machine learning models have emerged as valuable tools in healthcare diagnostics, offering a promising avenue for predicting CVD risk.
 
@@ -27,7 +27,7 @@ This repository contains the following:
 
 ## Contributors
 
-This project was developed by Malapati Sruthi Laya Reddy,Praveen Uppari and Dinesh Dama, as part of B V RAJU INSTIUTE OF TECHNOLOGY NARSAPUR "## Cardiovascular Disease Prediction".
+This project was developed by Malapati Sruthi Laya Reddy,Praveen Uppari and Dinesh Dama, as part of B V RAJU INSTIUTE OF TECHNOLOGY NARSAPUR "## A Machine Learning Model for Earlier Prediction of Cardiovascular Disease".
 
 ## Acknowledgments
 
@@ -38,4 +38,4 @@ We would like to express our gratitude to Dr. Hutashan vishal Bhagat sir, our me
 If you have any questions or suggestions regarding this project, please feel free to reach out to 21211a6628@bvrit.ac.in.
 
 
-Feel free to personalize the placeholders, such as Malapati Sruthi Laya Reddy,Praveen Uppari and Dinesh Dama, B V Raju Institute Of Technology Narsapur, A Machine Learning Model for the_earlier Prediction of Cardiovascular Disease.
+Feel free to personalize the placeholders, such as Malapati Sruthi Laya Reddy, Praveen Uppari and Dinesh Dama, B V Raju Institute Of Technology Narsapur, A Machine Learning Model for Earlier Prediction of Cardiovascular Disease.
